@@ -4,6 +4,7 @@ After watching [this video](https://www.youtube.com/watch?v=YNMkADpvO4w), the fo
 1. What happens when 3+ birds show up at a resource?
 2. What if one hawk and 2+ doves?
 3. What happens if 2+ hawks and 1+ dove?
+
 These are my conclusions corresponding to the above questions, as answers were not found in resources available:
 1. When 3+ birds show up at a resource, each bird divies up the resources such that if 3 birds arrive at a resource, each bird would get 2/3 of the resource.
 2. The hawk gets the same amount, and the doves split the remainder.
