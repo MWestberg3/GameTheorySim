@@ -14,5 +14,6 @@ These are my conclusions corresponding to the above questions, as answers were n
 #### Dove Simulation ####
 I find here that the population of doves levels out to approximately 120 doves when given only 100 locations for food over the course of one year. There are fluctuations of course, but they stay relatively close to 120 total doves.
 #### Dove and Hawk ####
+I find here the rough equilibrium. They both eventually level out together, though there tends to be more hawks than doves; however, they population of both added together is about the same as the Dove Only Simulation.
 
 ### Part 2 ###
